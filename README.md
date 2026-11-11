@@ -1,6 +1,6 @@
 # Adaptive Memory for Online Reinforcement Learning under Sparse Model Changes
 <p align="center">
-  <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/Algo-BAQTD.png"
+  <img src="https://github.com/sreejeetm1729/Adaptive-Memory-for-Online-RL-under-Sparse-Model-Changes-/blob/main/Deploy-1.png"
        alt="Figure 2" width="1400">
 </p>
 
@@ -29,8 +29,8 @@ gap between the optimal return and the return of the learner’s
 policies over a finite number of deployments.
 
 <p align="center">
-  <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/ECC-1.png"
+  <img src="https://github.com/sreejeetm1729/Adaptive-Memory-for-Online-RL-under-Sparse-Model-Changes-/blob/main/Deploy-2.png"
        alt="Figure 2" width="375">
-  <img src="https://github.com/sreejeetm1729/Adaptive-Quantization-Preserves-Fast-Rates-for-TD-Learning-over-Rate-Limited-Channels/blob/main/ECC-2.png"
+  <img src="https://github.com/sreejeetm1729/Adaptive-Memory-for-Online-RL-under-Sparse-Model-Changes-/blob/main/Deploy-3.png"
        alt="Figure 1" width="375">
 </p>
