@@ -30,7 +30,7 @@ policies over a finite number of deployments.
 
 <p align="center">
   <img src="https://github.com/sreejeetm1729/Adaptive-Memory-for-Online-RL-under-Sparse-Model-Changes-/blob/main/Deploy-2.png"
-       alt="Figure 2" width="375">
+       alt="Figure 2" width="400">
   <img src="https://github.com/sreejeetm1729/Adaptive-Memory-for-Online-RL-under-Sparse-Model-Changes-/blob/main/Deploy-3.png"
-       alt="Figure 1" width="375">
+       alt="Figure 1" width="400">
 </p>
