@@ -1,1 +1,1 @@
-# Adaptive-Memory-for-Online-RL-under-Sparse-Model-Changes-
+# Adaptive Memory for Online Reinforcement Learning under Sparse Model Changes
